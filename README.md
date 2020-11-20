@@ -5,7 +5,6 @@
 ## Equipe
 
 - Caio Raposo (caioraposo)
-- Matheus Henrique
 - Nícolas Rocha (nicolasrocha22)
 - Paula Martins (paulamartinss)
 - Tais Prestes
